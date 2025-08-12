@@ -4,7 +4,7 @@
 
 ---
 
-- 🌱 I’m currently learning **<Java DSA, Git, ServiceNow, and how to survive tricky LeetCode problems**
+- 🌱 I’m currently learning **Java DSA, Git, ServiceNow, and how to survive tricky LeetCode problems**
 - 🤝 I’m looking to collaborate on **<Python automation scripts>**
 - 📂 All of my projects are available at **[My Portfolio](<PORTFOLIO_LINK>)**
 - 💬 Ask me about **SQL, Python, Java, Git, SQL, VS Code, LeetCode problems, Cognitive Systems**
