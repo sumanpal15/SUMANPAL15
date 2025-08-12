@@ -8,7 +8,7 @@
 - 🤝 I’m looking to collaborate on **Python automation scripts**
 - 📂 All of my projects are available at **[My Portfolio](<PORTFOLIO_LINK>)**
 - 💬 Ask me about **SQL, Python, Java, Git, SQL, VS Code, LeetCode problems, Cognitive Systems**
-- 📫 How to reach me: **<sumanpal1523@gmail.com>**
+- 📫 How to reach me: **<sumanpal1523@gmail.com>, <https://www.linkedin.com/sumanpal15>**
 
 ---
 
