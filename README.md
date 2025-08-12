@@ -13,10 +13,11 @@
 ---
 
 ### About Me
-I am a self-driven and passionate developer who loves learning and building.  
+<p align= 'center'>I am a self-driven and passionate developer who loves learning and building.  
 I enjoy teaching and sharing my knowledge, am highly dedicated to my work,  
 and always aim to complete tasks ahead of time.  
 I am skilled in SQL, PLSQL,Python, Java and have a keen interest in Data Analysis.
+</p>
 
 ---
 
