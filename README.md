@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hi, <SUMAN_PAL> Here 👋</h1>
+<h1 align="center">Hi, SUMAN PAL Here 👋</h1>
 <h3 align="center">Developer | Analyst | Tech Explorer</h3>
 
 ---
