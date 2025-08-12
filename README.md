@@ -5,7 +5,7 @@
 ---
 
 - 🌱 I’m currently learning **Java DSA, Git, ServiceNow, and how to survive tricky LeetCode problems**
-- 🤝 I’m looking to collaborate on **<Python automation scripts>**
+- 🤝 I’m looking to collaborate on **Python automation scripts**
 - 📂 All of my projects are available at **[My Portfolio](<PORTFOLIO_LINK>)**
 - 💬 Ask me about **SQL, Python, Java, Git, SQL, VS Code, LeetCode problems, Cognitive Systems**
 - 📫 How to reach me: **<sumanpal1523@gmail.com>**
@@ -38,8 +38,7 @@ I am skilled in <SQL, PLSQL,Python, Java> and have a keen interest in <Data Anal
 
 ---
 
-### 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=dark)
+
 
 
 
