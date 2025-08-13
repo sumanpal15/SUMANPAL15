@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **how to survive tricky LeetCode problems**
 - 🤝 I’m looking to collaborate on **Python automation scripts**
-- 📂 All of my projects are available at **[My Portfolio](<PORTFOLIO_LINK>)**
+- 📂 Few of my projects are available at **[My Portfolio](https://sumanpal15.github.io/portfolio/)**
 - 💬 Ask me about **SQL, Python, Java, Git, SQL, Cognitive Systems**
 - 📫 How to reach me: **<sumanpal1523@gmail.com>**
 - [🔗 My Portfolio](https://sumanpal15.github.io/portfolio/)
