@@ -9,7 +9,7 @@
 - 📂 All of my projects are available at **[My Portfolio](<PORTFOLIO_LINK>)**
 - 💬 Ask me about **SQL, Python, Java, Git, SQL, Cognitive Systems**
 - 📫 How to reach me: **<sumanpal1523@gmail.com>**
-- 🔗 My Portfolio (https://sumanpal15.github.io/portfolio/)
+- [🔗my Portfolio] (https://sumanpal15.github.io/portfolio/)
 
 
 ---
